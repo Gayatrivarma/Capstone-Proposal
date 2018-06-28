@@ -6,21 +6,21 @@ This project we need to find whether the person has diabetes or not.In the datas
 
 ## Techniques and concepts used:
 
-Logistic Regression
-Ensemble Methods
-Visualization methods
-numpy
-GridSearch
-Parameter Tuning
+- Logistic Regression
+- Ensemble Methods
+- Visualization methods
+- numpy
+- GridSearch
+- Parameter Tuning
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-Python 2.7
-NumPy
-pandas
-scikit-learn (v0.17)
-matplotlib
-seaborn
-PyGame
-Jupyter Notebook
+- Python 2.7
+- NumPy
+- pandas
+- scikit-learn (v0.17)
+- matplotlib
+- seaborn
+- PyGame
+- Jupyter Notebook
